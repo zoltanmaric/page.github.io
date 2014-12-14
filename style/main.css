@@ -89,7 +89,7 @@ a:hover {
 	color:#3ac3cb;
 	text-decoration:none;
 }
-.blue-link:link, .blue-link:visited, .blue-link:active {
+.blue-title, .blue-link:link, .blue-link:visited, .blue-link:active {
 	color:#3ac3cb;
 	text-decoration:none;
 	font-weight:bold;
