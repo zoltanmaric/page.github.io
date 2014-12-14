@@ -186,16 +186,16 @@ h3 {
 	line-height:40px;
 }
 .designation {
-	width:331px;
+	width:337px;
 	float:left;
 	border-right:0px solid #d6eaeb;
 	line-height:40px;
-	padding:5px 20px 0px 20px;
+	padding:5px 20px 0px 0px;
 }
 .employment {
 	display:none;
 	float:left;
-	padding:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
 }
 .employment .box {
 	width:100%;
@@ -305,6 +305,7 @@ h3 {
 .postgresql { width:75%;  }
 .sonarqube  { width:80%;  }
 .tdd  		{ width:75%;  }
+.scala 		{ width:35%;  }
 
 .croatian   { width:100%; }
 .english 	{ width:100%; }
