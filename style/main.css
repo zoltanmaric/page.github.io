@@ -300,6 +300,7 @@ h3 {
 .postgresql { width:75%;  }
 .sonarqube  { width:80%;  }
 .tdd  		{ width:75%;  }
+.scala 		{ width:35%;  }
 
 .croatian   { width:100%; }
 .english 	{ width:100%; }
@@ -314,6 +315,7 @@ h3 {
 .postgresql { width:75%;  -moz-animation:postgresql 2s ease-out; -webkit-animation:postgresql 2s ease-out; }
 .sonarqube  { width:80%;  -moz-animation:sonarqube  2s ease-out; -webkit-animation:sonarqube  2s ease-out; }
 .tdd       	{ width:75%;  -moz-animation:tdd 	    2s ease-out; -webkit-animation:tdd 	      2s ease-out; }
+.scala     	{ width:35%;  -moz-animation:scala 	    2s ease-out; -webkit-animation:scala      2s ease-out; }
 
 .croatian   { width:100%; -moz-animation:croatian   2s ease-out; -webkit-animation:croatian   2s ease-out; }
 .english  	{ width:100%; -moz-animation:english    2s ease-out; -webkit-animation:english 	  2s ease-out; }
@@ -328,6 +330,7 @@ h3 {
 @-moz-keyframes postgresql { 0%{ width:0px;} 100%{ width:75%; }  }
 @-moz-keyframes sonarqube  { 0%{ width:0px;} 100%{ width:80%; }  }
 @-moz-keyframes tdd        { 0%{ width:0px;} 100%{ width:75%; }  }
+@-moz-keyframes scala      { 0%{ width:0px;} 100%{ width:35%; }  }
 
 @-moz-keyframes croatian   { 0%{ width:0px;} 100%{ width:100%;}  }
 @-moz-keyframes english    { 0%{ width:0px;} 100%{ width:100%;}  }
@@ -342,6 +345,7 @@ h3 {
 @-webkit-keyframes postgresql { 0%{ width:0px;} 100%{ width:75%; }  }
 @-webkit-keyframes sonarqube  { 0%{ width:0px;} 100%{ width:80%; }  }
 @-webkit-keyframes tdd        { 0%{ width:0px;} 100%{ width:75%; }  }
+@-webkit-keyframes scala      { 0%{ width:0px;} 100%{ width:35%; }  }
 
 @-webkit-keyframes croatian   { 0%{ width:0px;} 100%{ width:100%;}  }
 @-webkit-keyframes english    { 0%{ width:0px;} 100%{ width:100%;}  }
