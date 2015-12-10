@@ -297,20 +297,21 @@ h3 {
 }
 .skills-bars.first{margin-top:9px;}
 
-.jenkins   	{ width:70%;  }
-.javaee 	{ width:95%;  }
-.jboss7     { width:65%;  }
-.maven      { width:80%;  }
-.mercurial  { width:80%;  }
-.postgresql { width:75%;  }
-.sonarqube  { width:80%;  }
-.tdd  		{ width:75%;  }
-.scala 		{ width:35%;  }
+.scala   	{ width:80%;  }
+.play 		{ width:80%;  }
+.postgresql { width:80%;  }
+.mongodb    { width:75%;  }
+.git      	{ width:90%;  }
+.sbt  		{ width:70%;  }
+.tdd  		{ width:90%;  }
+.agile  	{ width:90%;  }
+.java8 		{ width:90%;  }
 
 .croatian   { width:100%; }
 .english 	{ width:100%; }
 .hungarian  { width:95%;  }
-.portuguese { width:40%;  }
+.german 	{ width:40%;  }
+.portuguese { width:30%;  }
 
 .left-row2-col1 ul li {
 	font-weight:bold;
