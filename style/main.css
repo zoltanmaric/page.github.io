@@ -292,65 +292,69 @@ h3 {
 }
 .skills-bars.first{margin-top:9px;}
 
-.jenkins   	{ width:70%;  }
-.javaee 	{ width:95%;  }
-.jboss7     { width:65%;  }
-.maven      { width:80%;  }
-.mercurial  { width:80%;  }
-.postgresql { width:75%;  }
-.sonarqube  { width:80%;  }
-.tdd  		{ width:75%;  }
-.scala 		{ width:35%;  }
+.scala   	{ width:80%;  }
+.play 		{ width:80%;  }
+.postgresql { width:80%;  }
+.mongodb    { width:75%;  }
+.git      	{ width:90%;  }
+.sbt  		{ width:70%;  }
+.tdd  		{ width:90%;  }
+.agile  	{ width:90%;  }
+.java8 		{ width:90%;  }
 
 .croatian   { width:100%; }
 .english 	{ width:100%; }
 .hungarian  { width:95%;  }
-.portuguese { width:40%;  }
+.german 	{ width:40%;  }
+.portuguese { width:30%;  }
 
-.jenkins   	{ width:70%;  -moz-animation:jenkins    2s ease-out; -webkit-animation:jenkins    2s ease-out; }
-.javaee 	{ width:95%;  -moz-animation:javaee 	2s ease-out; -webkit-animation:javaee 	  2s ease-out; }
-.jboss7     { width:65%;  -moz-animation:jboss7 	2s ease-out; -webkit-animation:jboss7 	  2s ease-out; }
-.maven      { width:80%;  -moz-animation:maven 	    2s ease-out; -webkit-animation:maven 	  2s ease-out; }
-.mercurial  { width:80%;  -moz-animation:mercurial  2s ease-out; -webkit-animation:mercurial  2s ease-out; }
-.postgresql { width:75%;  -moz-animation:postgresql 2s ease-out; -webkit-animation:postgresql 2s ease-out; }
-.sonarqube  { width:80%;  -moz-animation:sonarqube  2s ease-out; -webkit-animation:sonarqube  2s ease-out; }
+.scala   	{ width:80%;  -moz-animation:scala    2s ease-out; -webkit-animation:scala    2s ease-out; }
+.play 		{ width:80%;  -moz-animation:play 	2s ease-out; -webkit-animation:play 	  2s ease-out; }
+.postgresql { width:80%;  -moz-animation:postgresql 2s ease-out; -webkit-animation:postgresql 2s ease-out; }
+.mongodb    { width:75%;  -moz-animation:mongodb 	2s ease-out; -webkit-animation:mongodb 	  2s ease-out; }
+.git      	{ width:90%;  -moz-animation:git 	    2s ease-out; -webkit-animation:git 	  2s ease-out; }
+.sbt  		{ width:70%;  -moz-animation:sbt  2s ease-out; -webkit-animation:sbt  2s ease-out; }
 .tdd       	{ width:75%;  -moz-animation:tdd 	    2s ease-out; -webkit-animation:tdd 	      2s ease-out; }
-.scala     	{ width:35%;  -moz-animation:scala 	    2s ease-out; -webkit-animation:scala      2s ease-out; }
+.agile  	{ width:90%;  -moz-animation:agile  2s ease-out; -webkit-animation:agile  2s ease-out; }
+.java8     	{ width:90%;  -moz-animation:java8 	    2s ease-out; -webkit-animation:java8      2s ease-out; }
 
 .croatian   { width:100%; -moz-animation:croatian   2s ease-out; -webkit-animation:croatian   2s ease-out; }
 .english  	{ width:100%; -moz-animation:english    2s ease-out; -webkit-animation:english 	  2s ease-out; }
 .hungarian  { width:95%;  -moz-animation:hungarian  2s ease-out; -webkit-animation:hungarian  2s ease-out; }
-.portuguese { width:40%;  -moz-animation:portuguese 2s ease-out; -webkit-animation:portuguese 2s ease-out; }
+.german 	{ width:40%;  -moz-animation:portuguese 2s ease-out; -webkit-animation:portuguese 2s ease-out; }
+.portuguese { width:30%;  -moz-animation:portuguese 2s ease-out; -webkit-animation:portuguese 2s ease-out; }
 
-@-moz-keyframes jenkins    { 0%{ width:0px;} 100%{ width:70%; }  }
-@-moz-keyframes javaee 	   { 0%{ width:0px;} 100%{ width:95%; }  }
-@-moz-keyframes jboss7     { 0%{ width:0px;} 100%{ width:65%; }  }
-@-moz-keyframes maven      { 0%{ width:0px;} 100%{ width:80%; }  }
-@-moz-keyframes mercurial  { 0%{ width:0px;} 100%{ width:80%; }  }
-@-moz-keyframes postgresql { 0%{ width:0px;} 100%{ width:75%; }  }
-@-moz-keyframes sonarqube  { 0%{ width:0px;} 100%{ width:80%; }  }
+@-moz-keyframes scala      { 0%{ width:0px;} 100%{ width:80%; }  }
+@-moz-keyframes play 	   { 0%{ width:0px;} 100%{ width:80%; }  }
+@-moz-keyframes postgresql { 0%{ width:0px;} 100%{ width:80%; }  }
+@-moz-keyframes mongodb    { 0%{ width:0px;} 100%{ width:75%; }  }
+@-moz-keyframes git        { 0%{ width:0px;} 100%{ width:90%; }  }
+@-moz-keyframes sbt  	   { 0%{ width:0px;} 100%{ width:70%; }  }
 @-moz-keyframes tdd        { 0%{ width:0px;} 100%{ width:75%; }  }
-@-moz-keyframes scala      { 0%{ width:0px;} 100%{ width:35%; }  }
+@-moz-keyframes agile  	   { 0%{ width:0px;} 100%{ width:90%; }  }
+@-moz-keyframes java8      { 0%{ width:0px;} 100%{ width:90%; }  }
 
 @-moz-keyframes croatian   { 0%{ width:0px;} 100%{ width:100%;}  }
 @-moz-keyframes english    { 0%{ width:0px;} 100%{ width:100%;}  }
 @-moz-keyframes hungarian  { 0%{ width:0px;} 100%{ width:95%; }  }
-@-moz-keyframes portuguese { 0%{ width:0px;} 100%{ width:40%; }  }
+@-moz-keyframes german	   { 0%{ width:0px;} 100%{ width:40%; }  }
+@-moz-keyframes portuguese { 0%{ width:0px;} 100%{ width:30%; }  }
 
-@-webkit-keyframes jenkins    { 0%{ width:0px;} 100%{ width:70%; }  }
-@-webkit-keyframes javaee 	  { 0%{ width:0px;} 100%{ width:95%; }  }
-@-webkit-keyframes jboss7     { 0%{ width:0px;} 100%{ width:65%; }  }
-@-webkit-keyframes maven      { 0%{ width:0px;} 100%{ width:80%; }  }
-@-webkit-keyframes mercurial  { 0%{ width:0px;} 100%{ width:80%; }  }
-@-webkit-keyframes postgresql { 0%{ width:0px;} 100%{ width:75%; }  }
-@-webkit-keyframes sonarqube  { 0%{ width:0px;} 100%{ width:80%; }  }
+@-webkit-keyframes scala      { 0%{ width:0px;} 100%{ width:80%; }  }
+@-webkit-keyframes play 	  { 0%{ width:0px;} 100%{ width:80%; }  }
+@-webkit-keyframes postgresql { 0%{ width:0px;} 100%{ width:80%; }  }
+@-webkit-keyframes mongodb    { 0%{ width:0px;} 100%{ width:75%; }  }
+@-webkit-keyframes git        { 0%{ width:0px;} 100%{ width:90%; }  }
+@-webkit-keyframes sbt  	  { 0%{ width:0px;} 100%{ width:70%; }  }
 @-webkit-keyframes tdd        { 0%{ width:0px;} 100%{ width:75%; }  }
-@-webkit-keyframes scala      { 0%{ width:0px;} 100%{ width:35%; }  }
+@-webkit-keyframes agile  	  { 0%{ width:0px;} 100%{ width:90%; }  }
+@-webkit-keyframes java8      { 0%{ width:0px;} 100%{ width:90%; }  }
 
 @-webkit-keyframes croatian   { 0%{ width:0px;} 100%{ width:100%;}  }
 @-webkit-keyframes english    { 0%{ width:0px;} 100%{ width:100%;}  }
 @-webkit-keyframes hungarian  { 0%{ width:0px;} 100%{ width:95%; }  }
-@-webkit-keyframes portuguese { 0%{ width:0px;} 100%{ width:40%; }  }
+@-webkit-keyframes german	  { 0%{ width:0px;} 100%{ width:40%; }  }
+@-webkit-keyframes portuguese { 0%{ width:0px;} 100%{ width:30%; }  }
 
 
 .left-row2-col1 ul li {
