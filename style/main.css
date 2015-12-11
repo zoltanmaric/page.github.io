@@ -308,20 +308,20 @@ h3 {
 .german 	{ width:40%;  }
 .portuguese { width:30%;  }
 
-.scala   	{ width:80%;  -moz-animation:scala    2s ease-out; -webkit-animation:scala    2s ease-out; }
-.play 		{ width:80%;  -moz-animation:play 	2s ease-out; -webkit-animation:play 	  2s ease-out; }
+.scala   	{ width:80%;  -moz-animation:scala    	2s ease-out; -webkit-animation:scala      2s ease-out; }
+.play 		{ width:80%;  -moz-animation:play 		2s ease-out; -webkit-animation:play 	  2s ease-out; }
 .postgresql { width:80%;  -moz-animation:postgresql 2s ease-out; -webkit-animation:postgresql 2s ease-out; }
 .mongodb    { width:75%;  -moz-animation:mongodb 	2s ease-out; -webkit-animation:mongodb 	  2s ease-out; }
-.git      	{ width:90%;  -moz-animation:git 	    2s ease-out; -webkit-animation:git 	  2s ease-out; }
-.sbt  		{ width:70%;  -moz-animation:sbt  2s ease-out; -webkit-animation:sbt  2s ease-out; }
+.git      	{ width:90%;  -moz-animation:git 	    2s ease-out; -webkit-animation:git 	  	  2s ease-out; }
+.sbt  		{ width:70%;  -moz-animation:sbt  		2s ease-out; -webkit-animation:sbt  	  2s ease-out; }
 .tdd       	{ width:75%;  -moz-animation:tdd 	    2s ease-out; -webkit-animation:tdd 	      2s ease-out; }
-.agile  	{ width:90%;  -moz-animation:agile  2s ease-out; -webkit-animation:agile  2s ease-out; }
+.agile  	{ width:90%;  -moz-animation:agile  	2s ease-out; -webkit-animation:agile 	  2s ease-out; }
 .java8     	{ width:90%;  -moz-animation:java8 	    2s ease-out; -webkit-animation:java8      2s ease-out; }
 
 .croatian   { width:100%; -moz-animation:croatian   2s ease-out; -webkit-animation:croatian   2s ease-out; }
 .english  	{ width:100%; -moz-animation:english    2s ease-out; -webkit-animation:english 	  2s ease-out; }
 .hungarian  { width:95%;  -moz-animation:hungarian  2s ease-out; -webkit-animation:hungarian  2s ease-out; }
-.german 	{ width:40%;  -moz-animation:portuguese 2s ease-out; -webkit-animation:portuguese 2s ease-out; }
+.german 	{ width:40%;  -moz-animation:german 	2s ease-out; -webkit-animation:german	  2s ease-out; }
 .portuguese { width:30%;  -moz-animation:portuguese 2s ease-out; -webkit-animation:portuguese 2s ease-out; }
 
 @-moz-keyframes scala      { 0%{ width:0px;} 100%{ width:80%; }  }
@@ -364,7 +364,7 @@ h3 {
 	font-weight:normal;
 }
 .left-padding {
-	height: 379px;
+	height: 926;
 }
 /* LEFT CONTENT END
 ------------------------------------------------------*/
