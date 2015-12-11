@@ -190,7 +190,7 @@ h3 {
 	float:left;
 	border-right:0px solid #d6eaeb;
 	line-height:40px;
-	padding:5px 20px 0px 0px;
+	padding:5px 20px 0px 20px;
 }
 .employment {
 	display:none;
@@ -227,7 +227,7 @@ h3 {
 	height:auto;
 	float:left;
 	border-right:2px solid #d6eaeb;
-	padding:12px 20px 0px 0px;
+	padding:12px 20px 203px 0px;
 	line-height:20px;
 }
 .image {
@@ -432,6 +432,9 @@ h3 {
 /* Media-specific */
 .screen {
 	display: none;
+}
+.page-padding {
+	padding-bottom: 50px;
 }
 
 
